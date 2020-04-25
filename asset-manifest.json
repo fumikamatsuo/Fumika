@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fumika/static/css/main.d1b05096.chunk.css",
-    "main.js": "/fumika/static/js/main.2872b900.chunk.js",
-    "main.js.map": "/fumika/static/js/main.2872b900.chunk.js.map",
+    "main.js": "/fumika/static/js/main.37df85b5.chunk.js",
+    "main.js.map": "/fumika/static/js/main.37df85b5.chunk.js.map",
     "runtime-main.js": "/fumika/static/js/runtime-main.fadcf968.js",
     "runtime-main.js.map": "/fumika/static/js/runtime-main.fadcf968.js.map",
     "static/js/2.0b0ab287.chunk.js": "/fumika/static/js/2.0b0ab287.chunk.js",
     "static/js/2.0b0ab287.chunk.js.map": "/fumika/static/js/2.0b0ab287.chunk.js.map",
     "index.html": "/fumika/index.html",
-    "precache-manifest.2ff0b0231c69d4a6a9f3c2d2cbe44238.js": "/fumika/precache-manifest.2ff0b0231c69d4a6a9f3c2d2cbe44238.js",
+    "precache-manifest.218888c3801fd6fe23fd8fc8fed9e175.js": "/fumika/precache-manifest.218888c3801fd6fe23fd8fc8fed9e175.js",
     "service-worker.js": "/fumika/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/fumika/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.0b0ab287.chunk.js.LICENSE.txt": "/fumika/static/js/2.0b0ab287.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.fadcf968.js",
     "static/js/2.0b0ab287.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2872b900.chunk.js"
+    "static/js/main.37df85b5.chunk.js"
   ]
 }

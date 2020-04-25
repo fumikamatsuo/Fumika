@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fumika/precache-manifest.2ff0b0231c69d4a6a9f3c2d2cbe44238.js"
+  "/fumika/precache-manifest.218888c3801fd6fe23fd8fc8fed9e175.js"
 );
 
 self.addEventListener('message', (event) => {

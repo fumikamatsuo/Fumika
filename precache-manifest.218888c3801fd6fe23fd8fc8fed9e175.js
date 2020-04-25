@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7d0377ca5cdd5c52a8a032eeca03c2a",
+    "revision": "e80b51197174850098102c2fe78bfe49",
     "url": "/fumika/index.html"
   },
   {
-    "revision": "4f1337b64494d880e010",
+    "revision": "943739fde797f2239805",
     "url": "/fumika/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fumika/static/js/2.0b0ab287.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f1337b64494d880e010",
-    "url": "/fumika/static/js/main.2872b900.chunk.js"
+    "revision": "943739fde797f2239805",
+    "url": "/fumika/static/js/main.37df85b5.chunk.js"
   },
   {
     "revision": "f0f1adf6232178a9c50b",
